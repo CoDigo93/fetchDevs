@@ -61,7 +61,7 @@ export const Home = () =>{
             fetchDevs()
             
         } 
-    },[url, history])
+    },[url, history, setError, setRepository, setIsLoading])
 
 
     

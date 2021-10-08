@@ -19,14 +19,13 @@ export const ProfileSection = () =>{
     const {
         repository ,
         repositories, 
-        totalStars, 
-        setRepository, 
+        totalStars,  
         setRepositories,
         setTotalStars,
         selectedUser,
         setSelectedUser,
         setStars,
-        setHasError
+
 
     } = context
     
