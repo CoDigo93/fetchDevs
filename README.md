@@ -1,4 +1,22 @@
-# Link to access the app https://fetch-devs.vercel.app/
+## Link to access the app https://fetch-devs.vercel.app/
+
+## About Project
+This is a simple application that consumes the github API to fetch repositories from github as you wish.
+
+## Guide
+
+### Home
+Here is the Home page, where you can search for one repository by owners nickname.
+
+![CPT2201092005-1294x663](https://user-images.githubusercontent.com/60116310/148705137-4d980152-d47a-4714-a825-5bf51a0d6d94.gif)
+
+### Profile
+This is the Profile section, where you can see the repository info. Like stars, followers etc.
+
+![Captura de ecrã de 2022-01-09 20-18-30](https://user-images.githubusercontent.com/60116310/148705267-47e15355-70d3-4dcd-b451-3974b6f751ea.png)
+
+
+
 
 # Getting Started with Create React App
 
